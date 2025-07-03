@@ -1,6 +1,6 @@
 # 🪐 AstroCônicas - Simulador de "Órbitas" Cônicas
 
-![Banner](imagens/AstroConicas.png) <!-- O banner é pra estar aqui -->
+![Banner](imagens/logo_boa.png) <!-- O banner é pra estar aqui -->
 
 > **Transforme equações gerais de cônicas em jornadas cósmicas visuais**
 
