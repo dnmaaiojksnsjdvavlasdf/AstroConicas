@@ -20,10 +20,10 @@ Quanto ao método utilizado para elaboração e estruturação do projeto, a man
 
 
 ## 🖥️ Rodando o programa
-Para rodar o programa, deve-se instalar os 3 códigos da pasta 'src' e o arquivo 'requerimentos.txt', e ter o Visual Studio Code. Assim, crie uma pasta e ponha todos códigos e o arquivo 'requerimetos.txt' dentro dela.  Por fim, crie um ambiente virtual dentro dessa pasta e o ative corretamente. Tendo ativado o ambiente virtual, execute o comando citado em "instalação rápida". E assim, rode o código 'interface.py'.
+Para rodar o programa, deve-se clicar no botão verde "<> Code", e clique em "download ZIP". Após isso, você terá baixado um arquivo .zip, basta apenas extraí-lo. Continuando, você deve abrir a pasta "astroconicas"(que foi extraída) no editor de código "Visual Studio Code(Vs code). Por fim, crie um ambiente virtual dentro dessa pasta e o ative corretamente. Tendo ativado o ambiente virtual, execute o comando citado em "instalação rápida". E assim, rode o código 'interface.py'.
 
 ## 🚀 Instalação Rápida
-Para uma instalação simples, digite o comando abaixo.
+Para uma instalação simples, digite o comando abaixo. Ele irá baixar as bibliotecas requeridas para rodar o programa.
 ```bash
 # Instale as dependências
 pip install -r requerimentos.txt
