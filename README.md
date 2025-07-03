@@ -20,14 +20,14 @@ Quanto ao método utilizado para elaboração e estruturação do projeto, a man
 
 
 ## 🖥️ Rodando o programa
-Para rodar o programa, deve-se instalar os 3 códigos da pasta 'src' e o arquivo 'requerimentos.txt', e ter o Visual Studio Code. Assim, crie uma pasta e ponha todos códigos e o arquivo 'requerimetos.txt' dentro dela.  Por fim, crie um ambiente virtual dentro dessa pasta e o ative corretamente. Tendo ativado o ambiente virtual, execute o comando citado em instalação rápida. E assim, rode o código 'interface.py'.
+Para rodar o programa, deve-se instalar os 3 códigos da pasta 'src' e o arquivo 'requerimentos.txt', e ter o Visual Studio Code. Assim, crie uma pasta e ponha todos códigos e o arquivo 'requerimetos.txt' dentro dela.  Por fim, crie um ambiente virtual dentro dessa pasta e o ative corretamente. Tendo ativado o ambiente virtual, execute o comando citado em "instalação rápida". E assim, rode o código 'interface.py'.
 
 ## 🚀 Instalação Rápida
-Para uma instalação simples, digite cada um dos comandos abaixo em seu terminal de escolha. 
+Para uma instalação simples, digite o comando abaixo.
 ```bash
 # Instale as dependências
 pip install -r requerimentos.txt
 ```
-Caso essa opção de errado, você pode clicar no botão na direita do respositório, em verde, escrito "<> Code" e clicar em "Download ZIP" e extrair o arquivo baixado.
+
 
 
