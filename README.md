@@ -11,7 +11,7 @@
 - ⚡ Renderização com Manim
 
 ## 🚀 Instalação Rápida
-Para uma instalação simples, digite cada um dos comandos abaixo separadamente em seu terminal de escolha. 
+Para uma instalação simples, digite cada um dos comandos abaixo em seu terminal de escolha. 
 ```bash
 # Clone o repositório
 git clone https://github.com/dnmaaiojksnsjdvavlasdf/astroconicas.git
