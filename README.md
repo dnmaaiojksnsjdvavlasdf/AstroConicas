@@ -12,7 +12,7 @@
 
 
 ## ✏️ Descrição
-O programa do Astrocônicas simula órbitas planetárias a partir da equação geral de uma cônica. Na interface, o usuário fornece os coeficientes da equação geral, que será reduzida e animada como uma órbita. O principal foco do programa é mostrar os casos possíveis de órbitas que de fato acontecem na mecânica celeste: Órbita elíptica, órbita hiperbólica e órbita parabólica. Entretanto, o programa também reconhece os casos degenerados, informando ao usuário algumas informações em um breve texto. 
+O programa do Astrocônicas simula órbitas planetárias a partir da equação geral de uma cônica. Na interface, o usuário fornece os coeficientes da equação geral, que será reduzida e animada como uma órbita. O principal foco do programa é mostrar os casos possíveis de órbitas que de fato acontecem na mecânica celeste: órbita elíptica, órbita hiperbólica e órbita parabólica. Entretanto, o programa também reconhece os casos degenerados, informando ao usuário algumas informações em um breve texto. 
 
 
 ## 🔍 Ensaio sobre o método
