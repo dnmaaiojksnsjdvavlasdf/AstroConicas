@@ -13,9 +13,6 @@
 ## 🚀 Instalação Rápida
 Para uma instalação simples, digite cada um dos comandos abaixo em seu terminal de escolha. 
 ```bash
-# Clone o repositório
-git clone https://github.com/dnmaaiojksnsjdvavlasdf/astroconicas.git
-
 # Instale as dependências
 pip install -r requerimentos.txt
 ```
@@ -26,3 +23,6 @@ O programa do Astrocônicas simula órbitas planetárias a partir da equação g
 
 ## 🔍 Ensaio sobre o método
 Quanto ao método utilizado para elaboração e estruturação do projeto, a maneira como o código foi construído reflete a forma como o grupo foi dividido. Dessa forma, as três partes componentes (interação, redução e animação) foram divididas como frentes independentes, num primeiro momento. Posteriormente, emergiram como três arquivos que interagiram entre si sob a seguinte rede de importação: os coeficientes obtidos pela parte interativa é enviada para a redução e identificação da cônica, que, por sua vez, é enviada para a animação. 
+
+## 🖥️ Rodando o programa
+Para rodar o programa, deve-se instalar os 3 códigos da pasta 'src' e o arquivo 'requerimentos.txt'. Assim, crie uma pasta e ponha os 3 códigos dentro dela mais o requerimentos.txt.  Por fim, crie um ambiente virtual dentro dessa pasta e o ative corretamente. Tendo ativado o ambiente virtual, execute o comando citado em instalação rápida. E assim, rode o código 'interface.py'.
